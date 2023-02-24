@@ -36,8 +36,8 @@
 ## B
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>blockchain</td><td>区块链</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
     <tr><td>bandwidth</td><td>带宽</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
+    <tr><td>blockchain</td><td>区块链</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
 </table>
 
 ## C
@@ -79,8 +79,7 @@
 ## I
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>IaaS</td><td>Infrastructure As A Service</td><td>基础架构即服务</td></tr>
-    <tr><td>IoT</td><td>Internet of Things</td><td>物联网</td></tr>
+    <tr><td>interoperability</td><td>互操作性</td><td>不同的计算机系统、网络、操作系统和应用程序一起工作并共享信息的能力</td></tr>
 </table>
 
 ## J
@@ -106,8 +105,6 @@
 ## P
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>PaaS</td><td>Platform As A Service</td><td>平台即服务</td></tr>
-    <tr><td>P2P</td><td>Peer-TO-Peer</td><td>点对点</td></tr>
 </table>
 
 
@@ -135,6 +132,7 @@
 ## T
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>taxonomy</td><td>分类学</td><td>Internet远程登录服务的标准协议和主要方式</td></tr>
     <tr><td>Telnet</td><td>远程终端协议</td><td>Internet远程登录服务的标准协议和主要方式</td></tr>
 </table>
 
