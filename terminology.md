@@ -42,6 +42,7 @@
 ## C
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>cache</td><td>缓存</td><td>可以进行高速数据交换的存储器</td></tr>
     <tr><td>coarse-grained</td><td>粗粒度的</td><td></td></tr>
     <tr><td>collaborative filtering</td><td>协同过滤</td><td>核心在于描述条目和用户的相似性</td></tr>
 </table>
@@ -59,6 +60,7 @@
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>fine-grained</td><td>细粒度的</td><td></td></tr>
+    <tr><td>firewall</td><td>防火墙</td><td>防止窃取计算机信息的系统</td></tr>
     <tr><td>flip-flop</td><td>触发器</td><td>可以用于存储数据，在芯片设计中特指D触发器</td></tr>
 </table>
 
@@ -84,6 +86,10 @@
 ## L
 
 ## M
+<table>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>mailbomb</td><td>电子邮件炸弹</td><td>通过设置一台机器不断的大量的向同一地址发送电子邮件，攻击者能够耗尽接受者网络的宽带</td></tr>
+</table>
 
 ## N
 <table>
@@ -106,15 +112,19 @@
 ## R
 <table>
     <tr><td>English</td><td>中文</td><td>详细说明</td></tr>
-    <tr><td>reinforcement learning</td><td>强化学习</td><td>又称再励学习、评价学习，是一种重要的机器学习方法，在智能控制机器人及分析预测等领域有许多应用。</td></tr>
+    <tr><td>register</td><td>寄存器</td><td>CPU内部用来存放参与运算的数据和运算结果的一些小型存储区域</td></tr>
+    <tr><td>reinforcement learning</td><td>强化学习</td><td>又称再励学习、评价学习，是一种重要的机器学习方法，在智能控制机器人及分析预测等领域有许多应用</td></tr>
+    <tr><td>router</td><td>路由器</td><td>连接两个或多个网络的硬件设备</td></tr>
 </table>
 
 ## S
 <table>
     <tr><td>English</td><td>中文</td><td>详细说明</td></tr>
-    <tr><td>supervised learning</td><td>监督学习</td><td>算法的数据中包含期望得到的结果</td></tr>
-    <tr><td>semantic web</td><td>语义网</td><td>通过给全球信息网上的文档添加能够被计算器所理解的语义“元数据”，从而使整个互联网成为一个通用的信息交换媒介。</td></tr>
+    <tr><td>sector</td><td>扇区</td><td>磁盘上划分的区域</td></tr>
+    <tr><td>semantic web</td><td>语义网</td><td>通过给全球信息网上的文档添加能够被计算器所理解的语义“元数据”，从而使整个互联网成为一个通用的信息交换媒介</td></tr>
+    <tr><td>semaphore</td><td>信号量</td><td>控制同时访问特定资源的线程数量</td></tr>
     <tr><td>superconductivity</td><td>超导性</td><td>某些物质在一定温度条件下（一般为较低温度）电阻降为零的性质</td></tr>
+    <tr><td>supervised learning</td><td>监督学习</td><td>算法的数据中包含期望得到的结果</td></tr>
 </table>
 
 ## T
