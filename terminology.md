@@ -28,8 +28,9 @@
 ## A 
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>anti-spoofing</td><td>反欺骗</td><td></td></tr>
     <tr><td>amplifier</td><td>放大器</td><td></td></tr>
+    <tr><td>anti-spoofing</td><td>反欺骗</td><td></td></tr>
+    <tr><td>autonomous</td><td>自主的，自治的</td><td></td></tr>
 </table>
 
 ## B
@@ -43,6 +44,7 @@
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>cache</td><td>缓存</td><td>可以进行高速数据交换的存储器</td></tr>
+    <tr><td>calculus</td><td>演算</td><td></td></tr>
     <tr><td>coarse-grained</td><td>粗粒度的</td><td></td></tr>
     <tr><td>collaborative filtering</td><td>协同过滤</td><td>核心在于描述条目和用户的相似性</td></tr>
     <tr><td>context free grammar</td><td>上下文无关文法</td><td>一种有效定义程序设计语言的文法</td></tr>
@@ -63,6 +65,7 @@
     <tr><td>fine-grained</td><td>细粒度的</td><td></td></tr>
     <tr><td>firewall</td><td>防火墙</td><td>防止窃取计算机信息的系统</td></tr>
     <tr><td>flip-flop</td><td>触发器</td><td>可以用于存储数据，在芯片设计中特指D触发器</td></tr>
+    <tr><td>formal method</td><td>形式化方法</td><td>使用数学方法解决软件问题，主要包括软件需求、设计、实现形式化建模和验证</td></tr>
 </table>
 
 ## G
