@@ -47,10 +47,18 @@
 </table>
 
 ## E
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>ERP</td><td>Enterprise Resource Planning</td><td>企业资源计划</td></tr>
+</table>
 
 ## F
 
 ## G
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>GPU</td><td>Graphics Processing Unit</td><td>图形处理器</td></tr>
+</table>
 
 ## H
 <table>
@@ -70,12 +78,24 @@
 ## K
 
 ## L
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>LIFO</td><td>Last In First Out</td><td>后进先出</td></tr>
+</table>
 
 ## M
 
 ## N
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>NLP</td><td>Natuarl Language Processing</td><td>自然语言处理</td></tr>
+</table>
 
 ## O
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>OOP</td><td>Object Oriented Programming</td><td>面向对象编程</td></tr>
+</table>
 
 ## P
 <table>
@@ -107,6 +127,10 @@
 ## V
 
 ## W
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>WSDL</td><td>Web Services Description Language</td><td>网络服务描述语言</td></tr>
+</table>
 
 ## X
 
