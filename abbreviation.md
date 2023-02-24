@@ -32,11 +32,17 @@
 </table>
 
 ## B
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>B2C</td><td>Business-TO-Customer</td><td>企业对消费者</td></tr>
+</table>
 
 ## C
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>CNN</td><td>Convolutional Neural Network</td><td>卷积神经网络</td></tr>
+    <tr><td>CAD</td><td>Computer Aided Design</td><td>计算机辅助设计</td></tr>
+    <tr><td>CSP</td><td>Communicating Sequential Processes</td><td>通信顺序进程</td></tr>
 </table>
 
 
@@ -102,6 +108,7 @@
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>PaaS</td><td>Platform As A Service</td><td>平台即服务</td></tr>
     <tr><td>P2P</td><td>Peer-TO-Peer</td><td>点对点</td></tr>
+    <tr><td>PLC</td><td>Programmable Logic Controller</td><td>可编程控制器</td></tr>
 </table>
 
 
@@ -118,6 +125,7 @@
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>SaaS</td><td>Software As A Service</td><td>软件即服务</td></tr>
     <tr><td>SOAP</td><td>Simple Object Access Protocol</td><td>简单对象访问协议</td></tr>
+    <tr><td>SMTP</td><td>Simple Mail Transfer Protocol</td><td>简单邮件传输协议</td></tr>
 </table>
 
 ## T
