@@ -43,6 +43,8 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>CAD</td><td>Computer Aided Design</td><td>计算机辅助设计</td></tr>
+    <tr><td>CFG</td><td>Context-Free Grammar</td><td>上下文无关文法</td></tr>
+    <tr><td>CFG</td><td>Control Flow Graph</td><td>控制流图</td></tr>
     <tr><td>CNN</td><td>Convolutional Neural Network</td><td>卷积神经网络</td></tr>
     <tr><td>COBOL</td><td>Common Business Oriented Language</td><td>面向商业的通用语言</td></tr>
     <tr><td>CSP</td><td>Communicating Sequential Processes</td><td>通信顺序进程</td></tr>
@@ -91,6 +93,7 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>LIFO</td><td>Last In First Out</td><td>后进先出</td></tr>
+    <tr><td>LSTM</td><td>Long Short Term Memory</td><td>长短期记忆</td></tr>
 </table>
 
 ## M
