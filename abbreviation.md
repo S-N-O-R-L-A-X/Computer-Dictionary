@@ -35,13 +35,15 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>B2C</td><td>Business-TO-Customer</td><td>企业对消费者</td></tr>
+    <tr><td>BPEL</td><td>— Business Process Execution Language</td><td>业务过程执行语言</td></tr>
 </table>
 
 ## C
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
-    <tr><td>CNN</td><td>Convolutional Neural Network</td><td>卷积神经网络</td></tr>
     <tr><td>CAD</td><td>Computer Aided Design</td><td>计算机辅助设计</td></tr>
+    <tr><td>CNN</td><td>Convolutional Neural Network</td><td>卷积神经网络</td></tr>
+    <tr><td>COBOL</td><td>Common Business Oriented Language</td><td>面向商业的通用语言</td></tr>
     <tr><td>CSP</td><td>Communicating Sequential Processes</td><td>通信顺序进程</td></tr>
 </table>
 
