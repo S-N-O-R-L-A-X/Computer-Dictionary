@@ -28,13 +28,15 @@
 ## A 
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>anti-spoofing</td><td>反欺骗</td><td>简要说明</td></tr>
+    <tr><td>anti-spoofing</td><td>反欺骗</td><td></td></tr>
+    <tr><td>amplifier</td><td>放大器</td><td></td></tr>
 </table>
 
 ## B
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>blockchain</td><td>区块链</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
+    <tr><td>bandwidth</td><td>带宽</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
 </table>
 
 ## C
@@ -57,19 +59,20 @@
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>fine-grained</td><td>细粒度的</td><td></td></tr>
+    <tr><td>flip-flop</td><td>触发器</td><td>可以用于存储数据，在芯片设计中特指D触发器</td></tr>
 </table>
 
 ## G
 
 ## H
 <table>
-    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
-    <tr><td>HPC</td><td>High Performance Computing</td><td>高性能计算</td></tr>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>hexadecimal</td><td>十六进制的</td><td></td></tr>
 </table>
 
 ## I
 <table>
-    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>IaaS</td><td>Infrastructure As A Service</td><td>基础架构即服务</td></tr>
     <tr><td>IoT</td><td>Internet of Things</td><td>物联网</td></tr>
 </table>
@@ -92,7 +95,7 @@
 
 ## P
 <table>
-    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
     <tr><td>PaaS</td><td>Platform As A Service</td><td>平台即服务</td></tr>
     <tr><td>P2P</td><td>Peer-TO-Peer</td><td>点对点</td></tr>
 </table>
@@ -111,6 +114,7 @@
     <tr><td>English</td><td>中文</td><td>详细说明</td></tr>
     <tr><td>supervised learning</td><td>监督学习</td><td>算法的数据中包含期望得到的结果</td></tr>
     <tr><td>semantic web</td><td>语义网</td><td>通过给全球信息网上的文档添加能够被计算器所理解的语义“元数据”，从而使整个互联网成为一个通用的信息交换媒介。</td></tr>
+    <tr><td>superconductivity</td><td>超导性</td><td>某些物质在一定温度条件下（一般为较低温度）电阻降为零的性质</td></tr>
 </table>
 
 ## T
