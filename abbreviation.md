@@ -29,6 +29,7 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>ANN</td><td>Artificial Neural Network</td><td>人工神经网络</td></tr>
+    <tr><td>ARP</td><td>Address Resolution Protocol</td><td>地址解析协议</td></tr>
 </table>
 
 ## B
@@ -72,6 +73,7 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>HPC</td><td>High Performance Computing</td><td>高性能计算</td></tr>
+    <tr><td>HTTP</td><td>Hyper Text Transfer Protocol</td><td>超文本传输协议</td></tr>
 </table>
 
 ## I
@@ -96,6 +98,7 @@
 ## N
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>NFS</td><td>Network File System</td><td>网络文件系统</td></tr>
     <tr><td>NLP</td><td>Natuarl Language Processing</td><td>自然语言处理</td></tr>
 </table>
 
@@ -126,13 +129,21 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>SaaS</td><td>Software As A Service</td><td>软件即服务</td></tr>
-    <tr><td>SOAP</td><td>Simple Object Access Protocol</td><td>简单对象访问协议</td></tr>
     <tr><td>SMTP</td><td>Simple Mail Transfer Protocol</td><td>简单邮件传输协议</td></tr>
+    <tr><td>SNMP</td><td>Simple Network Management Protocol</td><td>简单网络管理协议</td></tr>    <tr><td>SOAP</td><td>Simple Object Access Protocol</td><td>简单对象访问协议</td></tr>
 </table>
 
 ## T
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>TFTP</td><td>Trivial File Transfer Protocol</td><td>普通文件传输协议</td></tr>
+</table>
 
 ## U
+<table>
+    <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>UDP</td><td>User Datagram Protocol</td><td>用户数据报协议</td></tr>
+</table>
 
 ## V
 
