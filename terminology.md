@@ -45,6 +45,7 @@
     <tr><td>cache</td><td>缓存</td><td>可以进行高速数据交换的存储器</td></tr>
     <tr><td>coarse-grained</td><td>粗粒度的</td><td></td></tr>
     <tr><td>collaborative filtering</td><td>协同过滤</td><td>核心在于描述条目和用户的相似性</td></tr>
+    <tr><td>context free grammar</td><td>上下文无关文法</td><td>一种有效定义程序设计语言的文法</td></tr>
 </table>
 
 
@@ -113,6 +114,7 @@
 <table>
     <tr><td>English</td><td>中文</td><td>详细说明</td></tr>
     <tr><td>register</td><td>寄存器</td><td>CPU内部用来存放参与运算的数据和运算结果的一些小型存储区域</td></tr>
+    <tr><td>regular expression</td><td>正则表达式</td><td>用于匹配字符串中字符组合的模式</td></tr>
     <tr><td>reinforcement learning</td><td>强化学习</td><td>又称再励学习、评价学习，是一种重要的机器学习方法，在智能控制机器人及分析预测等领域有许多应用</td></tr>
     <tr><td>router</td><td>路由器</td><td>连接两个或多个网络的硬件设备</td></tr>
 </table>
@@ -128,6 +130,10 @@
 </table>
 
 ## T
+<table>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>Telnet</td><td>远程终端协议</td><td>Internet远程登录服务的标准协议和主要方式</td></tr>
+</table>
 
 ## U
 
