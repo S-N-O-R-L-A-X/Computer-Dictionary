@@ -28,6 +28,7 @@
 ## A 
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>Ad hoc</td><td>点对点</td><td>一种特殊的自组织对等式多跳移动通信网络</td></tr>
     <tr><td>amplifier</td><td>放大器</td><td></td></tr>
     <tr><td>anti-spoofing</td><td>反欺骗</td><td></td></tr>
     <tr><td>autonomous</td><td>自主的，自治的</td><td></td></tr>
@@ -36,8 +37,9 @@
 ## B
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>bandwidth</td><td>带宽</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
-    <tr><td>blockchain</td><td>区块链</td><td>区块链是一种去中心化的分布式数据库。</td></tr>
+    <tr><td>bandwidth</td><td>带宽</td><td>区块链是一种去中心化的分布式数据库</td></tr>
+    <tr><td>bare-metal</td><td>裸金属服务器</td><td>支持第三方虚拟化软件的服务器</td></tr>
+    <tr><td>blockchain</td><td>区块链</td><td>区块链是一种去中心化的分布式数据库</td></tr>
 </table>
 
 ## C
@@ -48,6 +50,7 @@
     <tr><td>coarse-grained</td><td>粗粒度的</td><td></td></tr>
     <tr><td>collaborative filtering</td><td>协同过滤</td><td>核心在于描述条目和用户的相似性</td></tr>
     <tr><td>context free grammar</td><td>上下文无关文法</td><td>一种有效定义程序设计语言的文法</td></tr>
+    <tr><td>cyberinfrastructure</td><td>网络基础设施</td><td>提供特别强大和先进的功能的信息技术系统</td></tr>
 </table>
 
 
@@ -97,7 +100,7 @@
 ## N
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>naive Bayes classifiers</td><td>朴素贝叶斯分类器</td><td>贝叶斯分类器是一种对属性集和类变量的概率关系建模的方法。</td></tr>
+    <tr><td>naive Bayes classifiers</td><td>朴素贝叶斯分类器</td><td>贝叶斯分类器是一种对属性集和类变量的概率关系建模的方法</td></tr>
 </table>
 
 ## O
@@ -105,6 +108,8 @@
 ## P
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>pervasive computing</td><td>普适计算</td><td>强调和环境融为一体的计算</td></tr>
+    <tr><td>portability</td><td>可移植性</td><td>软件转置到其它计算机上的能力</td></tr>
 </table>
 
 
