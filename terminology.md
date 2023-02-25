@@ -49,6 +49,7 @@
     <tr><td>calculus</td><td>演算</td><td></td></tr>
     <tr><td>coarse-grained</td><td>粗粒度的</td><td></td></tr>
     <tr><td>collaborative filtering</td><td>协同过滤</td><td>核心在于描述条目和用户的相似性</td></tr>
+    <tr><td>consensus algorithm</td><td>共识算法</td><td>为了实现分布式一致性协议而产生的一系列流程与规则</td></tr>
     <tr><td>context free grammar</td><td>上下文无关文法</td><td>一种有效定义程序设计语言的文法</td></tr>
     <tr><td>cyberinfrastructure</td><td>网络基础设施</td><td>提供特别强大和先进的功能的信息技术系统</td></tr>
 </table>
@@ -61,6 +62,10 @@
 </table>
 
 ## E
+<table>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>Ethereum</td><td>以太坊</td><td>基于区块链技术，允许任何人构建和使用去中心化应用的区块链平台</td></tr>
+</table>
 
 ## F
 <table>
@@ -108,16 +113,22 @@
 ## P
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>paxos</td><td>一种一致性算法</td><td>一种一致性算法</td></tr>
     <tr><td>pervasive computing</td><td>普适计算</td><td>强调和环境融为一体的计算</td></tr>
     <tr><td>portability</td><td>可移植性</td><td>软件转置到其它计算机上的能力</td></tr>
 </table>
 
 
 ## Q
+<table>
+    <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
+    <tr><td>quantum</td><td>量子</td><td>一个物理量存在的最小的不可分割的基本单位</td></tr>
+</table>
 
 ## R
 <table>
     <tr><td>English</td><td>中文</td><td>详细说明</td></tr>
+    <tr><td>raft</td><td>一种一致性算法</td><td>一种一致性算法</td></tr>
     <tr><td>register</td><td>寄存器</td><td>CPU内部用来存放参与运算的数据和运算结果的一些小型存储区域</td></tr>
     <tr><td>regular expression</td><td>正则表达式</td><td>用于匹配字符串中字符组合的模式</td></tr>
     <tr><td>reinforcement learning</td><td>强化学习</td><td>又称再励学习、评价学习，是一种重要的机器学习方法，在智能控制机器人及分析预测等领域有许多应用</td></tr>
