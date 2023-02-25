@@ -28,8 +28,10 @@
 ## A 
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>AC-GAN</td><td>Abstract Continuous Generative Adversarial Network</td><td>抽象连续生成式对抗网络</td></tr>
     <tr><td>ANN</td><td>Artificial Neural Network</td><td>人工神经网络</td></tr>
     <tr><td>ARP</td><td>Address Resolution Protocol</td><td>地址解析协议</td></tr>
+    <tr><td>AST</td><td>Abstract Syntax Tree</td><td>抽象语法树</td></tr>
 </table>
 
 ## B
@@ -43,10 +45,12 @@
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
     <tr><td>CAD</td><td>Computer Aided Design</td><td>计算机辅助设计</td></tr>
+    <tr><td>CBOW</td><td>Continuous Bag-Of-Words model</td><td>连续词袋模型</td></tr>
     <tr><td>CFG</td><td>Context-Free Grammar</td><td>上下文无关文法</td></tr>
     <tr><td>CFG</td><td>Control Flow Graph</td><td>控制流图</td></tr>
     <tr><td>CNN</td><td>Convolutional Neural Network</td><td>卷积神经网络</td></tr>
     <tr><td>COBOL</td><td>Common Business Oriented Language</td><td>面向商业的通用语言</td></tr>
+    <tr><td>CPDP</td><td>Cross-Project Defect Prediction</td><td>跨项目缺陷预测</td></tr>
     <tr><td>CSP</td><td>Communicating Sequential Processes</td><td>通信顺序进程</td></tr>
 </table>
 
@@ -68,6 +72,7 @@
 ## G
 <table>
     <tr><td>Abbreviation</td><td>English</td><td>中文</td></tr>
+    <tr><td>GAN</td><td>Generative Adversarial Network</td><td>生成式对抗网络</td></tr>
     <tr><td>GPU</td><td>Graphics Processing Unit</td><td>图形处理器</td></tr>
 </table>
 
