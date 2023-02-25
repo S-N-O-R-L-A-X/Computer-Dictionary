@@ -130,6 +130,7 @@
     <tr><td>sector</td><td>扇区</td><td>磁盘上划分的区域</td></tr>
     <tr><td>semantic web</td><td>语义网</td><td>通过给全球信息网上的文档添加能够被计算器所理解的语义“元数据”，从而使整个互联网成为一个通用的信息交换媒介</td></tr>
     <tr><td>semaphore</td><td>信号量</td><td>控制同时访问特定资源的线程数量</td></tr>
+    <tr><td>smart contract</td><td>智能合约</td><td>一段写在区块链上的代码，一旦某个事件触发合约中的条款，代码即自动执行</td></tr>
     <tr><td>superconductivity</td><td>超导性</td><td>某些物质在一定温度条件下（一般为较低温度）电阻降为零的性质</td></tr>
     <tr><td>supervised learning</td><td>监督学习</td><td>算法的数据中包含期望得到的结果</td></tr>
 </table>
@@ -137,7 +138,7 @@
 ## T
 <table>
     <tr><td>English</td><td>中文</td><td>简要说明</td></tr>
-    <tr><td>taxonomy</td><td>分类学</td><td>Internet远程登录服务的标准协议和主要方式</td></tr>
+    <tr><td>taxonomy</td><td>分类学</td><td>研究分类</td></tr>
     <tr><td>Telnet</td><td>远程终端协议</td><td>Internet远程登录服务的标准协议和主要方式</td></tr>
 </table>
 
